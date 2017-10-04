@@ -41,6 +41,31 @@ li.nav-item:hover {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(199, 6, 29, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
+/* Header */
+.header-image-static {
+	width: 100%;
+	height: 600px;
+	background: url('assets/images/boxing-ring-background.png');
+	background-size: cover;	
+	padding: 2rem 1.5rem;
+	margin-bottom: -250px;
+}
+
+.header-buttons button {
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-outline-primary {
+  border-color: white;
+  color: white;
+}
+
+.btn-outline-primary:hover {
+  background: #c7061d;    
+  border-color: #c7061d;
+}
+
 
 
 
