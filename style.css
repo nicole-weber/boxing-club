@@ -18,6 +18,14 @@ body {
   background-color: black;
   padding: 50px;
 }
+.bg-img-filled {
+  background: url('assets/images/boxing-redhead-girl.jpg');
+  background-size: cover; 
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  padding: 50px;
+  margin-top: 60px;
+}
 
 /* Typography */
 
