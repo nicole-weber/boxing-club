@@ -14,6 +14,10 @@ body {
   padding-top: 3rem;
 }
 
+.bg-color-filled {
+  background-color: black;
+  padding: 50px;
+}
 
 /* Nav elements */
 nav {
@@ -66,6 +70,49 @@ li.nav-item:hover {
   border-color: #c7061d;
 }
 
+
+
+
+
+
+
+
+
+/* Footer */
+
+footer {
+  font-family: 'Montserrat', sans-serif;
+  background-color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: rgba(255,255,255,1.00);
+}
+
+footer h4 {
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: small;
+}
+
+footer h3 {
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+footer p {
+  font-size: small;
+}
+
+footer ul {
+  text-transform: uppercase;
+  color: white;
+  font-size: small;
+  list-style-type: none;
+}
+
+ul.social-icons li .fa {
+  font-size: 50px;
+}
 
 
 
