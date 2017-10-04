@@ -19,6 +19,25 @@ body {
   padding: 50px;
 }
 
+/* Typography */
+
+h1.fancy-text {
+	font-size: 5rem;
+}
+
+h3.header {
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h4.sub-header {
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
 /* Nav elements */
 nav {
   background-color: black;  
