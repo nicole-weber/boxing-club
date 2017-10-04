@@ -1,0 +1,55 @@
+/*
+ * Boxing Club Stylesheet
+ *
+ * author: nicolew | misscode
+ *
+ * 
+ * 
+ * 
+*/
+
+/* Site Wide */
+
+body {
+  padding-top: 3rem;
+}
+
+
+/* Nav elements */
+nav {
+  background-color: black;  
+}
+
+li.nav-item a {
+  font-size: small;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  color: white;
+}
+
+li.nav-item {
+  background: black;
+  transition: all 0.3s ease 0s;
+}
+
+li.nav-item:hover {
+  background: #c7061d;
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(199, 6, 29, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
+
+
+/*
+ * 
+ * credits
+ *
+ * Bootstrap 4 Starter Template - https://getbootstrap.com/docs/4.0/examples/starter-template/
+ * 
+ * 
+ * 
+*/
